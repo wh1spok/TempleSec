@@ -45,7 +45,7 @@ Clone the repository and install the required dependencies using `pip`:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/TempleSec.git](https://github.com/your-username/TempleSec.git)
+git clone [https://github.com/wh1spok/TempleSec.git](https://github.com/wh1spok/TempleSec.git)
 cd TempleSec
 
 # Install required packages
