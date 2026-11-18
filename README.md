@@ -8,18 +8,21 @@
 
 Inspired by the unique aesthetic and philosophy of **TempleOS**, **TempleSec** is a multi-purpose reconnaissance and offensive cybersecurity toolkit built for red teaming, OSINT, and security auditing. 
 
+I Believe that a Tool shouldn't have 300 files in one Repo just to use or install, The Repo Comes with Just **TempleSec** and a Optional Installation File. Run the file - and it will install all the 3rd Party Dependencies for you. Otherwise, you can install the imports by yourself.
+
 ---
 
 ## 🛠️ Features & Tools
+`More Tools Will Come Soon!`
 
-* ** Network Reconnaissance**
+* **Network Reconnaissance**
   * **Port Scanner:** Scan target hosts for open ports.
   * **DNS Lookup:** Query DNS records and infrastructure.
   * **WHOIS Lookup:** Retrieve domain registration details.
-* ** Information Gathering**
+* **Information Gathering**
   * **IP Geolocation / Info:** Gather location and ISP data for target IPs.
   * **Public IP Retrieval:** Quickly check your current external IP address.
-* ** Offensive Utilities**
+* **Offensive Utilities**
   * **Brute Forcer:** Test login endpoints and authentication mechanisms.
   * **Code Obfuscator:** Obfuscate Python scripts or payloads.
 
